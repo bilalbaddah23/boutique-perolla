@@ -15,7 +15,7 @@ BOUTIQUE PEROLLA — IIS DEPLOYMENT
    Copy each command as a separate line. Use Notepad if RDP merges lines.
 
    New-Item -ItemType Directory -Path "C:\Sites\BusinessWebsites" -Force
-   & "C:\Program Files\Git\cmd\git.exe" clone --depth 1 --branch main https://github.com/webbloomlb-alt/boutique-perolla.git "C:\Sites\BusinessWebsites\boutique-perolla"
+   & "C:\Program Files\Git\cmd\git.exe" clone --depth 1 --branch main https://github.com/bilalbaddah23/boutique-perolla.git "C:\Sites\BusinessWebsites\boutique-perolla"
    powershell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Sites\BusinessWebsites\boutique-perolla\deployment\Install-IIS.ps1" -HostName "boutique-perolla.duckdns.org"
 
    The installer uses only this site's own IIS application pool and publish folder.
