@@ -1,0 +1,111 @@
+{
+  "brand": "Boutique Perolla",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/boutique.perolla/",
+  "hours": "Confirm visiting hours with the boutique",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-04.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg",
+    "/images/collection-13.jpg"
+  ],
+  "products": [
+    {
+      "id": "burgundy-knit-dress",
+      "name": "Burgundy Knit Dress",
+      "collection": "Dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy high-neck knit dress shown in three views. Ask the boutique to confirm measurements, fabric, current price and availability.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/boutique.perolla/p/DfrZo9QDOve/"
+    },
+    {
+      "id": "olive-utility-shirt",
+      "name": "Olive Utility Shirt",
+      "collection": "Shirts",
+      "audience": "The edit",
+      "family": "",
+      "description": "An olive button-front utility shirt shown with wide-leg trousers. Styling accessories and other pictured pieces are not automatically included. Ask the boutique to confirm measurements, fabric, current price and availability.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg",
+        "/images/collection-05.jpg",
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/boutique.perolla/p/DfW4XjijIU1/"
+    },
+    {
+      "id": "olive-bomber-jacket",
+      "name": "Olive Bomber Jacket",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "An oversized olive jacket with a zipped front, photographed from several angles. Ask the boutique to confirm measurements, fabric, current price and availability.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg",
+        "/images/collection-08.jpg",
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/boutique.perolla/p/DfPBKYcDNK1/"
+    },
+    {
+      "id": "striped-button-back-shirt",
+      "name": "Striped Button-Back Shirt",
+      "collection": "Shirts",
+      "audience": "The edit",
+      "family": "",
+      "description": "A relaxed striped shirt with a button-down back, as described in the original post. Ask the boutique to confirm measurements, fabric, current price and availability.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg",
+        "/images/collection-11.jpg",
+        "/images/collection-12.jpg",
+        "/images/collection-13.jpg"
+      ],
+      "source": "https://www.instagram.com/boutique.perolla/p/De_eZQDjD_U/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Zalka, Lebanon",
+      "mapUrl": "https://maps.app.goo.gl/BBmp84SbFotPSY1C9?g_st=ic"
+    }
+  ]
+}
